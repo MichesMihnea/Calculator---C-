@@ -1,0 +1,10 @@
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\bin\Debug\Hello Form.exe.config
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\bin\Debug\Hello Form.exe
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\bin\Debug\Hello Form.pdb
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Hello Form.csprojAssemblyReference.cache
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Hello_Form.Form1.resources
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Hello_Form.Properties.Resources.resources
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Hello Form.csproj.GenerateResource.cache
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Hello Form.csproj.CoreCompileInputs.cache
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Hello Form.exe
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Hello Form.pdb

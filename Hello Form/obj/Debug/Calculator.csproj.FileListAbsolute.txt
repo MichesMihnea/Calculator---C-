@@ -1,0 +1,10 @@
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\bin\Debug\Calculator.exe.config
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\bin\Debug\Calculator.exe
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\bin\Debug\Calculator.pdb
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Calculator.exe
+C:\Users\Mihnea\source\repos\Hello Form\Hello Form\obj\Debug\Calculator.pdb
